@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/l/sensor_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/l/sensor_ws/src/chassis_test/include/**",
+        "/home/l/sensor_ws/src/fdilink_ahrs-demo/include/**",
+        "/home/l/sensor_ws/src/fixposition_driver/include/**",
+        "/home/l/sensor_ws/src/fixposition_gnss_tf/include/**",
+        "/home/l/sensor_ws/src/integrated_navigation_driver/include/**",
+        "/home/l/sensor_ws/src/ouster_example/ouster_ros/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
